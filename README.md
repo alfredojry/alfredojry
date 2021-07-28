@@ -30,6 +30,4 @@ I speak english :uk: , portuguese :brazil: and spanish :es:
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredojry&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredojry&theme=tokyonight&langs_count=10&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredojry&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredojry&theme=tokyonight&langs_count=10&layout=compact)
